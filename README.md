@@ -9,7 +9,34 @@
 ### 节点导入方法  
 CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点  
 ### v2ray(ss/trojan)节点订阅  
-- `https://raw.fastgit.org/freefq/free/master/v2`  
+- `https://raw.fastgit.org/freefq/free/master/v2` 
+-  分享节点池： https://free.mengbai.cf/
+
+https://freemby.tk/
+
+https://ss.dswang.ga:8443/
+
+https://free.dswang.ga/
+
+https://www.linbaoz.com/
+
+http://sspool.herokuapp.com/
+
+https://6166888.xyz/
+
+http://free886.herokuapp.com/
+
+https://hm2019721.ml/
+
+https://233660.xyz/
+
+https://proxy.purel.in/
+
+http://emby.luoml.eu.org/
+
+http://kingfu.herokuapp.com/
+
+https://free.kingfu.cf/
 ### 自定义节点订阅  
 [bulink.xyz](https://bulink.xyz)注册除可订阅本页免费节点，还有每月5G自建节点免费流量（大概是gayhub第二快免费节点），不用打卡签到长期有效，欢迎使用  
 ## v2ray  
